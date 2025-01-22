@@ -19,5 +19,5 @@ Data Source: [Cyclistic_Data](https://divvy-tripdata.s3.amazonaws.com/index.html
 
 ![Image](https://github.com/user-attachments/assets/5e337b35-5ef9-42b0-b6da-59ac154883b1)
 
-# Recommendations:
-1. 
+# Recommendations/Data Insights:
+**1. ** 
