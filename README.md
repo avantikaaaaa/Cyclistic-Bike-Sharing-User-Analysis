@@ -9,7 +9,7 @@ Consequently, this project aims to analyze the usage patterns of casual riders c
 Data Source: [Cyclistic_Data](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
 **SQL Queries:**
-01. Data Preparation
-02. Data Analysis
+01. [Data Preparation]()
+02. [Data Analysis](https://github.com/avantikaaaaa/Cyclistic-Bike-Sharing-User-Analysis/blob/main/Data_analysis.sql)
 
 **Data Visualizations:** Tableau
