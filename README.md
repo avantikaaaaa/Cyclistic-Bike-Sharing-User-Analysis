@@ -20,12 +20,11 @@ Data Source: [Cyclistic_Data](https://divvy-tripdata.s3.amazonaws.com/index.html
 ![Image](https://github.com/user-attachments/assets/3ed7b474-13c1-4c4f-be52-6a47842d97da)
 
 # Recommendations/Data Insights:
-1. Cyclistic can encourage casual riders used bikes during weekdays more often by new membership plan with weekday discounts or one-time discounts for rides during weekdays.
-2. To convert casual riders to members successfully, marketing team could announce free-trial plan as experience for non-member riders to check the benefits.
-3. The busiest time during the day is “AFTERNOON 13:00–17:00”, Cyclistic could focus on what the company can do to encourage all riders use bikes in the morning and evening, too. For example, special discount on the specific time period.
-4. Summer (Jun.-Aug.) was the peak of the year. Cyclistic could think about how to increase the business in other seasons as well to balance the whole year earned value.
-5. Electric bikes are the most popular type, also in casual riders’ group. Cyclistic could check the profit of each bike type and think either to focus on business on electric bikes more or try to increase business on other more profitable bike types.
-6. Casual riders use their bikes for longer durations than members. Offering discounts for longer rides may incentivize casual riders and entice members to ride for longer periods of time.
+1. Cyclistic can boost weekday usage among casual riders by offering new membership plans with weekday discounts or one-time ride discounts during weekdays.Additionally, offering a free-trial plan for non-members can showcase the benefits and encourage membership.
+2. The busiest time is "AFTERNOON 12:00–15:00." Cyclistic can encourage bike usage during other times by offering special discounts on the specific time period.
+3. Summer (May-Sept) is the peak season. Cyclistic should explore strategies to boost ridership in other seasons to achieve year-round revenue balance.
+4. Casual riders typically ride longer than members. Offering discounts for longer rides could encourage casual riders and motivate members to ride longer periods of time.
+5. Docked bikes are the most popular type, also in casual riders’ group. Cyclistic could check the profit of each bike type and think either to focus on business on Docked bikes more or try to increase business on other more profitable bike types.
 
 
 
