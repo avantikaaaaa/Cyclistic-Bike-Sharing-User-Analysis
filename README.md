@@ -17,7 +17,7 @@ Data Source: [Cyclistic_Data](https://divvy-tripdata.s3.amazonaws.com/index.html
 
 **Data Visualizations:** [Tableau](https://public.tableau.com/app/profile/avantika.garg6650/viz/Book1_17369612515860/Dashboard4)
 
-![Image](https://github.com/user-attachments/assets/c63a6c4e-1a64-4e82-87b3-28de78b51549)
+![Image](https://github.com/user-attachments/assets/3ed7b474-13c1-4c4f-be52-6a47842d97da)
 
 # Recommendations/Data Insights:
 1. Cyclistic can encourage casual riders used bikes during weekdays more often by new membership plan with weekday discounts or one-time discounts for rides during weekdays.
