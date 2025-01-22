@@ -17,5 +17,5 @@ Data Source: [Cyclistic_Data](https://divvy-tripdata.s3.amazonaws.com/index.html
 
 **Data Visualizations:** [Tableau](https://public.tableau.com/app/profile/avantika.garg6650/viz/Book1_17369612515860/Dashboard4)
 
-
+![Image](https://github.com/user-attachments/assets/5e337b35-5ef9-42b0-b6da-59ac154883b1)
 
