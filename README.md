@@ -12,16 +12,20 @@ Design marketing strategies aimed at converting casual riders into annual member
 Data Source: [Cyclistic_Data](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
 **SQL Queries:**
-01. [Data Preparation](https://github.com/avantikaaaaa/Cyclistic-Bike-Sharing-User-Analysis/blob/main/Data_preparation.sql)
-02. [Data Analysis](https://github.com/avantikaaaaa/Cyclistic-Bike-Sharing-User-Analysis/blob/main/Data_analysis.sql)
+1. [Data Preparation](https://github.com/avantikaaaaa/Cyclistic-Bike-Sharing-User-Analysis/blob/main/Data_preparation.sql)
+2. [Data Analysis](https://github.com/avantikaaaaa/Cyclistic-Bike-Sharing-User-Analysis/blob/main/Data_analysis.sql)
 
 **Data Visualizations:** [Tableau](https://public.tableau.com/app/profile/avantika.garg6650/viz/Book1_17369612515860/Dashboard4)
 
 ![Image](https://github.com/user-attachments/assets/c63a6c4e-1a64-4e82-87b3-28de78b51549)
 
 # Recommendations/Data Insights:
-**01.** Cyclistic can encourage casual riders used bikes during weekdays more often by new membership plan with weekday discounts or one-time discounts for rides during weekdays.
-**02.** To convert casual riders to members successfully, marketing team could announce free-trial plan as experience for non-member riders to check the benefits.
-**03.** The busiest time during the day is “AFTERNOON 13:00–17:00”, Cyclistic could focus on what the company can do to encourage all riders use bikes in the morning and evening, too. For example, special discount on the specific time period.
-**04.** Summer (Jun.-Aug.) was the peak of the year. Cyclistic could think about how to increase the business in other seasons as well to balance the whole year earned value.
-**05.** Electric bikes are the most popular type, also in casual riders’ group. Cyclistic could check the profit of each bike type and think either to focus on business on electric bikes more or try to increase business on other more profitable bike types.
+1. Cyclistic can encourage casual riders used bikes during weekdays more often by new membership plan with weekday discounts or one-time discounts for rides during weekdays.
+2. To convert casual riders to members successfully, marketing team could announce free-trial plan as experience for non-member riders to check the benefits.
+3. The busiest time during the day is “AFTERNOON 13:00–17:00”, Cyclistic could focus on what the company can do to encourage all riders use bikes in the morning and evening, too. For example, special discount on the specific time period.
+4. Summer (Jun.-Aug.) was the peak of the year. Cyclistic could think about how to increase the business in other seasons as well to balance the whole year earned value.
+5. Electric bikes are the most popular type, also in casual riders’ group. Cyclistic could check the profit of each bike type and think either to focus on business on electric bikes more or try to increase business on other more profitable bike types.
+
+
+
+
