@@ -8,9 +8,7 @@ Consequently, this project aims to analyze the usage patterns of casual riders c
 Data Source: Cyclistic_Data
 
 **SQL Queries:**
-01. Data Combining
-02. Data Exploration
-03. Data Cleaning
-04. Data Analysis
+01. Data Preparation
+02. Data Analysis
 
 **Data Visualizations:** Tableau
