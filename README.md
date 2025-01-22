@@ -6,7 +6,7 @@ Consequently, this project aims to analyze the usage patterns of casual riders c
 
 **Quick links:**
 
-Data Source: Cyclistic_Data (https://divvy-tripdata.s3.amazonaws.com/index.html)
+Data Source: [Cyclistic_Data](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
 **SQL Queries:**
 01. Data Preparation
