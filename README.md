@@ -5,7 +5,8 @@ Cyclistic, a leading bike-share service headquartered in Chicago, offers a conve
 Consequently, this project aims to analyze the usage patterns of casual riders compared to annual members of Cyclistic bikes. Leveraging these insights, the team will develop a new marketing strategy focused on converting casual riders into annual members.
 
 **Quick links:**
-Data Source: Cyclistic_Data
+
+Data Source: Cyclistic_Data (https://divvy-tripdata.s3.amazonaws.com/index.html)
 
 **SQL Queries:**
 01. Data Preparation
